@@ -1,0 +1,6 @@
+C:\Users\Maxim\RiderProjects\Education\Education_1\bin\Debug\Education_1.exe
+C:\Users\Maxim\RiderProjects\Education\Education_1\bin\Debug\Education_1.pdb
+C:\Users\Maxim\RiderProjects\Education\Education_1\obj\Debug\Education_1.csproj.AssemblyReference.cache
+C:\Users\Maxim\RiderProjects\Education\Education_1\obj\Debug\Education_1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\RiderProjects\Education\Education_1\obj\Debug\Education_1.exe
+C:\Users\Maxim\RiderProjects\Education\Education_1\obj\Debug\Education_1.pdb
